@@ -1,0 +1,4 @@
+# AgentConfig-CLI
+# 轻量级AI Agent统一配置管理器
+# Zero Dependencies - Pure Python
+# 本文件仅用于声明，实际运行无需安装任何第三方依赖
